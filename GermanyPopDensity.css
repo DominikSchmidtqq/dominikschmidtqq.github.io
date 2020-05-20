@@ -1,0 +1,6 @@
+.background {
+  fill: none;
+  stroke: black;
+  stroke-width: 3.5px;
+  pointer-events: all;
+}
